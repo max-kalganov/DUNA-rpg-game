@@ -8,14 +8,15 @@ You are a runner or a smuggler from one of the freemans sietches.
 Your aim is to transfer some stuff around the Duna managing not to be killed by the way.
 
 ### There will be several version of the game:
-The first version: Simple game with a limitted number of worms
-The last version: 
-	- full worms lifecycle is calculated
-	- nature changes are calculated
-	- transport processing
-	- interaction with senders/receivers/towns/etc.
-	- suite, suit's damage processing
-	- ...
+_The first version_: Simple game with a limitted number of worms
+
+_The last version_ 
+- full worms lifecycle is calculated
+- nature changes are calculated
+- transport processing
+- interaction with senders/receivers/towns/etc.
+- suite, suit's damage processing
+- ...
 
 
 ### Optimization

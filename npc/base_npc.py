@@ -1,0 +1,2 @@
+class BaseNPC:
+    pass
